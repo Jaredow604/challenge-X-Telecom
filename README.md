@@ -56,7 +56,7 @@ To replicate this environment and run the analysis locally, follow these steps:
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/JociasOrt/ml-customer-churn-telecom.git
+https://github.com/Jaredow604/challenge-X-Telecom.git
 
 ```
 
